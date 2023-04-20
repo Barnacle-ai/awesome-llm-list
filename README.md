@@ -9,7 +9,7 @@ License [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 Release date: April 2023  
 Paper:  
 Commercial use possible: YES  
-https://github.com/Stability-AI/StableLM  
+GitHub: https://github.com/Stability-AI/StableLM  
 
 ## [Databricks Dolly 2](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)  
 Parameters: 12B  
