@@ -8,7 +8,8 @@ Origin: Stability.ai
 License [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
 Release date: April 2023  
 Paper:  
-Commercial use possible: YES
+Commercial use possible: YES  
+https://github.com/Stability-AI/StableLM  
 
 ## [Databricks Dolly 2](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)  
 Parameters: 12B  
@@ -17,6 +18,7 @@ License [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 Release date: April 2023  
 Paper:  
 Commercial use possible: YES  
+GitHub: https://github.com/databrickslabs/dolly  
 
 ## [Vicuna](https://vicuna.lmsys.org/)  
 Parameters: 13B  
@@ -25,6 +27,7 @@ License Requires access to LlaMA, trained on GPT-share conversations that potent
 Release date: April 2023  
 Paper:  
 Commercial use possible: NO  
+GitHub: https://github.com/lm-sys/FastChat  
 
 ## [Cerebras-GPT](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)  
 Parameters: 111M, 256M, 590M, 1.3B, 2.7B, 6.7B, and 13B  
@@ -41,6 +44,7 @@ License Requires access to LlaMA, trained on GPT conversations against OpenAI li
 Release date: March 2023  
 Paper:   
 Commercial use possible: NO  
+GitHub: https://github.com/tatsu-lab/stanford_alpaca  
 
 ## [EleutherAI pythia](https://github.com/EleutherAI/pythia)  
 Parameters: 70M, 160M, 410M, 1B, 1.4B, 2.8B, 6.9B, 12BB  
@@ -81,6 +85,7 @@ License [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 Release date: January 2022  
 Paper: https://aclanthology.org/2022.bigscience-1.9/  
 Commercial use possible: YES  
+GitHub: https://github.com/EleutherAI/gpt-neox
 
 ## [GPT-J](https://huggingface.co/EleutherAI/gpt-j-6b)  
 Parameters: 6B  
@@ -97,4 +102,5 @@ License [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 Release date: October 2021  
 Paper: https://arxiv.org/pdf/2210.11416.pdf  
 Commercial use possible: YES  
+GitHub: https://github.com/google-research/t5x
 
