@@ -24,7 +24,7 @@ GitHub: https://github.com/databrickslabs/dolly
 ### 🦙[Vicuna](https://vicuna.lmsys.org/)  
 Parameters: 13B  
 Origin: UC Berkeley, CMU, Stanford, and UC San Diego  
-License Requires access to LlaMA, trained on GPT-share conversations that potentially breaches OpenAI license  
+License Requires access to LlaMA, trained on https://sharegpt.com conversations that potentially breaches OpenAI license  
 Release date: April 2023  
 Paper:  
 Commercial use possible: NO  
