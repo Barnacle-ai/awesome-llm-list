@@ -111,5 +111,5 @@ GitHub: https://github.com/google-research/t5x
 - [Anthropic Claude](https://www.anthropic.com)
 - [Google Bard](https://bard.google.com)
 - [Google PaLM API](https://blog.google/technology/ai/ai-developers-google-cloud-workspace/)
-- [Amazon Tital](https://aws.amazon.com/bedrock/titan/)
+- [Amazon Titan](https://aws.amazon.com/bedrock/titan/)
 - [Cohere](https://cohere.ai)
