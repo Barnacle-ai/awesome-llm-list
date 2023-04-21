@@ -3,7 +3,7 @@
 There's an increasing number of Large Language Models, both closed and open source. For those looking at options, this repository provides an overview of those options, together with basic data about each option. 
 
 ## OPEN SOURCE MODELS
-### 🐎 [Camel](https://huggingface.co/Writer/camel-5b-hf)  
+### 🐪 [Camel](https://huggingface.co/Writer/camel-5b-hf)  
 Parameters: 5B, (20B coming)  
 Origin: Writer  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
@@ -12,7 +12,7 @@ Paper:
 Commercial use possible: YES  
 GitHub: https://github.com/basetenlabs/camel-5b-truss
 
-### 🐎 [Palmyra](https://huggingface.co/Writer/palmyra-base)  
+### 🏛️ [Palmyra](https://huggingface.co/Writer/palmyra-base)  
 Parameters: 5B, (20B coming)  
 Origin: Writer  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
