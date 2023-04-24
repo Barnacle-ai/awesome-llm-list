@@ -124,10 +124,93 @@ Commercial use possible: YES
 GitHub: https://github.com/google-research/t5x
 
 ## COMMERCIAL MODELS
-- [OpenAI](https://openai.com)
-- [AI21Labs](https://www.ai21.com)
-- [Anthropic Claude](https://www.anthropic.com)
-- [Google Bard](https://bard.google.com)
-- [Google PaLM API](https://blog.google/technology/ai/ai-developers-google-cloud-workspace/)
-- [Amazon Titan](https://aws.amazon.com/bedrock/titan/)
-- [Cohere](https://cohere.ai)
+### [OpenAI](https://openai.com)
+**GPT-4**  
+Parameters: undeclared  
+Availability: Wait-list https://openai.com/waitlist/gpt-4-api  
+Fine-tuning: No fine-tuning yet available or announced.  
+Paper: https://arxiv.org/abs/2303.08774  
+Pricing: https://openai.com/pricing  
+Endpoints: Chat API endpoint, which also serves as a completions endpoint.  
+Privacy: Data from API calls not collected or used to train models https://openai.com/policies/api-data-usage-policies
+
+**GPT-3.5**  
+Parameters: undeclared (GPT-3 had 175B)  
+Availability: GA  
+Fine-tuning: Yes, fine-tuning available through APIs.  
+Paper: https://arxiv.org/pdf/2005.14165.pdf  
+Pricing: https://openai.com/pricing  
+Endpoints: A variety of endpoints available, including: chat, embeddings, fine-tuning, moderation, completions.  
+Privacy: Data from API calls not collected or used to train models.
+
+**ChatGPT**  
+Parameters: undeclared (uses GPT-3.5 model)  
+Availability: GA  
+Fine-tuning: N/A - consumer web-based solution.  
+Paper:  
+Pricing: https://openai.com/pricing  
+Endpoints: N/A - consumer web-based solution.   
+Privacy: Data submitted on the web-based ChatGPT service is collected and used to train models https://openai.com/policies/api-data-usage-policies
+
+## [AI21Labs](https://www.ai21.com)
+**Jurassic-2**  
+Parameters: undeclared (jurassic-1 had 178B)  
+Availability: GA  
+Fine-tuning: Yes, fine-tuning available through APIs.  
+Paper:   
+Pricing: https://www.ai21.com/studio/pricing   
+Endpoints: A variety of endpoints available, including: task-specific endpoints including paraphrase, gramtical errors, text improvements, summarisation, text segmentation, contextual answers.  
+Privacy:  
+
+
+## [Anthropic](https://www.anthropic.com)
+**Claude**  
+Parameters: undeclared  
+Availability: Waitlist https://www.anthropic.com/product   
+Fine-tuning: Not standard, large enterprise may contact via https://www.anthropic.com/earlyaccess to discuss.    
+Paper:  https://arxiv.org/abs/2204.05862   
+Pricing: https://cdn2.assets-servd.host/anthropic-website/production/images/apr-pricing-tokens.pdf    
+Endpoints: Completions endpoint.  
+Privacy: Data sent to/from is not used to train models unless feedback is given - https://vault.pactsafe.io/s/9f502c93-cb5c-4571-b205-1e479da61794/legal.html#terms  
+
+
+## [Google](https:google.com)  
+**Google Bard**  
+Parameters: 770M  
+Availability: Waitlist https://bard.google.com   
+Fine-tuning: No   
+Paper:  
+Pricing:  
+Endpoints: Consumer UI only, API via PaLM  
+Privacy: 
+
+
+**Google PaLM API**  
+Parameters: Upto 540B  
+Availability: Announced but not yet available – https://blog.google/technology/ai/ai-developers-google-cloud-workspace/   
+Fine-tuning: unknown   
+Paper: https://arxiv.org/abs/2204.02311  
+Pricing: unknown  
+Endpoints: unknown  
+Privacy: unknown
+
+
+## [Amazon](https://aws.amazon.com)
+**Amazon Titan**  
+Parameters: unknown  
+Availability: Announced but not yet available – https://aws.amazon.com/bedrock/titan/ai-developers-google-cloud-workspace/   
+Fine-tuning: unknown   
+Paper:   
+Pricing: unknown  
+Endpoints: unknown  
+Privacy: unknown
+
+## [Cohere](https://cohere.ai)
+**Cohere**  
+Parameters: 52B  
+Availability: GA   
+Fine-tuning:   
+Paper:  
+Pricing: https://cohere.com/pricing  
+Endpoints: A variety of endpoints including embedding, text completion, classification, summarisation, tokensisation, language detection.  
+Privacy: Data submitted is used to train models - https://cohere.com/terms-of-use
