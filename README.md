@@ -66,7 +66,7 @@ Commercial use possible: NO
 GitHub: https://github.com/tatsu-lab/stanford_alpaca  
 
 ### 🔮 [EleutherAI pythia](https://github.com/EleutherAI/pythia)  
-Parameters: 70M, 160M, 410M, 1B, 1.4B, 2.8B, 6.9B, 12BB  
+Parameters: 70M, 160M, 410M, 1B, 1.4B, 2.8B, 6.9B, 12B  
 Origin: [EleutherAI](https://www.eleuther.ai)  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: February 2023  
