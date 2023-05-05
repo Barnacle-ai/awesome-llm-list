@@ -38,6 +38,7 @@ Release date: April 2023
 Paper:  
 Commercial use possible: YES  
 GitHub: https://github.com/databrickslabs/dolly  
+Training cost: Databricks cite "for thousands of dollars and in a few hours, Dolly 2.0 was built by fine tuning a 12B parameter open-source model (EleutherAI's Pythia) on a human-generated dataset of 15K Q&A pairs". This, of course, is just for the fine-tuning and the cost of training the underlying Pythia model also needs to be taken into account when estimating total training cost.
 
 ### 🦙 [Vicuna](https://vicuna.lmsys.org/)  
 Parameters: 13B  
@@ -64,6 +65,7 @@ Release date: March 2023
 Paper:   
 Commercial use possible: NO  
 GitHub: https://github.com/tatsu-lab/stanford_alpaca  
+Training cost: Replicate posted a [blog post](https://replicate.com/blog/replicate-alpaca) where they replicated the Alpaca fine-tuning process. They used 4x A100 80GB GPUs for 1.5 hours. For total training cost, the cost of training the underlying LLaMA model also needs to be taken into account.
 
 ### 🔮 [EleutherAI pythia](https://github.com/EleutherAI/pythia)  
 Parameters: 70M, 160M, 410M, 1B, 1.4B, 2.8B, 6.9B, 12B  
@@ -80,6 +82,7 @@ License: Model weights available for non-commercial use by application to Meta
 Release date: February 2023  
 Paper: https://arxiv.org/abs/2302.13971  
 Commercial use possible: NO  
+Training cost: Meta cite "When training a 65B-parameter model, our code processes around 380 tokens/sec/GPU on 2048 A100 GPU with 80GB of RAM. This means that training over our dataset containing 1.4T tokens takes approximately 21 days... Finally, we estimate that we used 2048 A100-80GB for a period of approximately 5 months to develop our models." However, that cost is for all the different model sizes combined. Separately in the LLaMA paper Meta cite 1,022,362 GPU hours on A100-80GB GPUs.  
 
 ### 🌸 [Bloom](https://bigscience.huggingface.co/blog/bloom)  
 Parameters: 176B  
