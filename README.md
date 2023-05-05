@@ -3,6 +3,24 @@
 There's an increasing number of Large Language Models, both closed and open source. For those looking at options, this repository provides an overview of those options, together with basic data about each option. 
 
 ## OPEN SOURCE MODELS
+### 🦙 [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)  
+Parameters: 7B  
+Origin: An instruction tuned version of OpenLLaMA  
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
+Release date: May 2023  
+Paper:   
+Commercial use possible: YES  
+GitHub: https://github.com/yxuansu/OpenAlpaca  
+
+### 🦙 [OpenLLaMA](https://github.com/openlm-research/open_llama)  
+Parameters: 7B  
+Origin: A claimed recreation of Meta's LLaMA without the licensing restrictions
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
+Release date: May 2023  
+Paper:   
+Commercial use possible: YES  
+GitHub: https://github.com/openlm-research/open_llama  
+
 ### 🐪 [Camel](https://huggingface.co/Writer/camel-5b-hf)  
 Parameters: 5B, (20B coming)  
 Origin: [Writer](https://writer.com)  
