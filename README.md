@@ -5,7 +5,7 @@ There's an increasing number of Large Language Models, both closed and open sour
 ## OPEN SOURCE MODELS
 ### 🦙 [Together RedPajama-INCITE](https://www.together.xyz/blog/redpajama-models-v1)  
 Parameters: 3B, 7B  
-Origin: "Official" version of the Open Source recreation of LLaMA + chat/instruction-tuned versions
+Origin: "Official" version of the Open Source recreation of LLaMA + chat/instruction-tuned versions  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: May 2023  
 Paper:   
