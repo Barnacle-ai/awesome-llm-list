@@ -3,6 +3,16 @@
 There's an increasing number of Large Language Models, both closed and open source. For those looking at options, this repository provides an overview of those options, together with basic data about each option. 
 
 ## OPEN SOURCE MODELS
+### 🦙 [Together RedPajama-INCITE](https://www.together.xyz/blog/redpajama-models-v1)  
+Parameters: 3B, 7B  
+Origin: "Official" version of the Open Source recreation of LLaMA + chat/instruction-tuned versions
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
+Release date: May 2023  
+Paper:   
+Commercial use possible: YES  
+GitHub: https://huggingface.co/togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1  
+Training cost: The training of the first collection of RedPajama-INCITE models is performed on 3,072 V100 GPUs provided as part of the INCITE compute grant on Summit supercomputer at the Oak Ridge Leadership Computing Facility (OLCF).
+
 ### 🦙 [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)  
 Parameters: 7B  
 Origin: An instruction tuned version of OpenLLaMA  
