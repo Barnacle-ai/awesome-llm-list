@@ -3,6 +3,19 @@
 There's an increasing number of Large Language Models, both closed and open source. For those looking at options, this repository provides an overview of those options, together with basic data about each option. 
 
 ## OPEN SOURCE MODELS
+### 🧩 [MosaicML MPT-7B](https://www.mosaicml.com/blog/mpt-7b)  
+Parameters: 7B  
+Origin: Open souce from MosaicML. Claimed to be competitive with LLaMA-7B. Base, storywriter, instruct, chat fine-tunings available.  
+License (MPT-7B Base): [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
+License (MPT-7B-StoryWriter-65k+): [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
+License (MPT-7B-Instruct): [CC-By-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)  
+License (MPT-7B-Chat): [CC-By-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Release date: May 2023  
+Paper:   
+Commercial use possible: YES  
+GitHub: https://huggingface.co/togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1  
+Training cost: Nearly all of the training budget was spent on the base MPT-7B model, which took ~9.5 days to train on 440xA100-40GB GPUs, and cost ~$200k  
+
 ### 🦙 [Together RedPajama-INCITE](https://www.together.xyz/blog/redpajama-models-v1)  
 Parameters: 3B, 7B  
 Origin: "Official" version of the Open Source recreation of LLaMA + chat/instruction-tuned versions  
