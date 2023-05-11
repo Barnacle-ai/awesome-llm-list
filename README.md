@@ -167,6 +167,15 @@ Paper: https://arxiv.org/pdf/2210.11416.pdf
 Commercial use possible: YES  
 GitHub: https://github.com/google-research/t5x
 
+### 🦙 [IBM Dromedary](https://github.com/IBM/Dromedary)  
+Parameters: 7B, 13B, 33B and 65B  
+Origin: [IBM](https://research.ibm.com/artificial-intelligence), based on Meta's LLaMA  
+License: GNU General Public License v3.0  
+Release date:   
+Paper: https://arxiv.org/abs/2305.03047  
+Commercial use possible: YES  
+GitHub: https://github.com/IBM/Dromedary 
+
 ## COMMERCIAL MODELS
 ### [OpenAI](https://openai.com)
 **GPT-4**  
