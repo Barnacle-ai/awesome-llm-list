@@ -173,7 +173,7 @@ Origin: [IBM](https://research.ibm.com/artificial-intelligence), based on Meta's
 License: GNU General Public License v3.0  
 Release date:   
 Paper: https://arxiv.org/abs/2305.03047  
-Commercial use possible: YES  
+Commercial use possible: NO  
 GitHub: https://github.com/IBM/Dromedary 
 
 ## COMMERCIAL MODELS
