@@ -11,7 +11,7 @@ Release date: May 2023
 Paper:   
 Commercial use possible: YES  
 GitHub: https://huggingface.co/tiiuae/falcon-7b  
-GitHub: https://huggingface.co/tiiuae/falcon-7b-instruct
+GitHub: https://huggingface.co/tiiuae/falcon-7b-instruct  
 GitHub: https://huggingface.co/tiiuae/falcon-40b  
 GitHub: https://huggingface.co/tiiuae/falcon-40b-instruct  
 Training cost: Falcon-40B was trained on AWS SageMaker, on 384 A100 40GB GPUs in P4d instances.
