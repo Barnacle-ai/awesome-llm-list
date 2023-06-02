@@ -3,15 +3,18 @@
 There's an increasing number of Large Language Models, both closed and open source. For those looking at options, this repository provides an overview of those options, together with basic data about each option. 
 
 ## OPEN SOURCE MODELS
-### 🦅 [Falcon](https://www.tii.ae/news/uaes-technology-innovation-institute-launches-open-source-falcon-40b-large-language-model)  
+### 🦅 [Falcon](https://falconllm.tii.ae)  
 Parameters: 7B, 40B  
 Origin: UAE Technology Innovation Institute.  
-License: [TII Falcon LLM License 1.0](https://huggingface.co/tiiuae/falcon-40b/blob/main/LICENSE.txt)  
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: May 2023  
 Paper:   
 Commercial use possible: YES  
+GitHub: https://huggingface.co/tiiuae/falcon-7b  
+GitHub: https://huggingface.co/tiiuae/falcon-7b-instruct
 GitHub: https://huggingface.co/tiiuae/falcon-40b  
-Training cost:   
+GitHub: https://huggingface.co/tiiuae/falcon-40b-instruct  
+Training cost: Falcon-40B was trained on AWS SageMaker, on 384 A100 40GB GPUs in P4d instances.
 
 ### 🧩 [MosaicML MPT-7B](https://www.mosaicml.com/blog/mpt-7b)  
 Parameters: 7B  
