@@ -16,6 +16,20 @@ GitHub: https://huggingface.co/tiiuae/falcon-40b
 GitHub: https://huggingface.co/tiiuae/falcon-40b-instruct  
 Training cost: Falcon-40B was trained on AWS SageMaker, on 384 A100 40GB GPUs in P4d instances.
 
+### 🧩 [MosaicML MPT-30B](https://www.mosaicml.com/blog/mpt-30b)  
+Parameters: 30B  
+Origin: Open souce from MosaicML.  
+License (MPT-30B Base, Instruct): [Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)  
+License (MPT-30B Chat): [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Release date: June 2023  
+Paper:   
+Commercial use possible: YES(Base & Instruct), NO(Chat)  
+GitHub: Base: https://huggingface.co/mosaicml/mpt-30b  
+GitHub: Instruct: https://huggingface.co/mosaicml/mpt-30b-instruct  
+GitHub: Chat: https://huggingface.co/mosaicml/mpt-30b-chat  
+Training cost: From Scratch: 512xA100-40GB, 28.3 Days, ~ $871,000.  
+Traingin cost: Finetune 30B Base model: 16xA100-40GB, 21.8 Hours, $871
+
 ### 🧩 [MosaicML MPT-7B](https://www.mosaicml.com/blog/mpt-7b)  
 Parameters: 7B  
 Origin: Open souce from MosaicML. Claimed to be competitive with LLaMA-7B. Base, storywriter, instruct, chat fine-tunings available.  
