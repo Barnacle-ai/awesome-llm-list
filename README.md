@@ -3,6 +3,24 @@
 There's an increasing number of Large Language Models, both closed and open source. For those looking at options, this repository provides an overview of those options, together with basic data about each option. 
 
 ## OPEN SOURCE MODELS
+### 🐋 [Free Willi 2](https://stability.ai/blog/freewilly-large-instruction-fine-tuned-models)  
+Parameters: 7B, 40B  
+Origin: Stability AI.  
+License: [CC BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
+Release date: July 2023  
+Paper:   
+Commercial use possible: NO  
+GitHub: https://huggingface.co/stabilityai/FreeWilly2  
+Training cost:  
+### 🦙 [LLaMA2](https://ai.meta.com/llama/)  
+Parameters: 7B, 40B  
+Origin: Meta.  
+License: [Llama 2 Community License Agreement](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)  
+Release date: July 2023  
+Paper: https://arxiv.org/abs/2307.09288  
+Commercial use possible: YES  
+GitHub: https://huggingface.co/meta-llama  
+Training cost: A cumulative of 3.3M GPU hours of computation was performed on hardware of type A100-80GB (TDP of 400W or 350W). We estimate the total emissions for training to be 539 tCO2eq, of which 100% were directly offset by Meta’s sustainability program.  
 ### 🦅 [Falcon](https://falconllm.tii.ae)  
 Parameters: 7B, 40B  
 Origin: UAE Technology Innovation Institute.  
