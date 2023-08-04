@@ -3,6 +3,17 @@
 There's an increasing number of Large Language Models, both closed and open source. For those looking at options, this repository provides an overview of those options, together with basic data about each option. 
 
 ## OPEN SOURCE MODELS
+### 📏 [LongChat](https://lmsys.org/blog/2023-06-29-longchat/)  
+Parameters: 7B  
+Origin: [UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)    
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)   
+Release date: August 2023  
+Paper:   
+Commercial use possible: YES  
+GitHub: https://github.com/DachengLi1/LongChat  
+Training cost:  
+Comment: 32k context length!
+
 ### 🏯 [Qwen](https://huggingface.co/Qwen)  
 Parameters: 7B  
 Origin: Alibaba  
