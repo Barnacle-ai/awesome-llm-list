@@ -3,6 +3,26 @@
 There's an increasing number of Large Language Models, both closed and open source. For those looking at options, this repository provides an overview of those options, together with basic data about each option. 
 
 ## OPEN SOURCE MODELS
+### 🏯 [Qwen](https://huggingface.co/Qwen)  
+Parameters: 7B  
+Origin: Alibaba  
+License: [Tongyi Qianwen](https://github.com/QwenLM/Qwen-7B/blob/main/LICENSE)  
+Release date: August 2023  
+Paper:   
+Commercial use possible: YES  
+GitHub: https://github.com/QwenLM/Qwen-7B  
+Training cost:
+
+### 🦙 [Vicuna 1.5](https://vicuna.lmsys.org/)  
+Parameters: 13B  
+Origin: [UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)  
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
+Release date: August 2023 (v1.5 uses LLaMA2 instead of LLaMA of prior releases)  
+Paper:  
+Commercial use possible: NO (trained on https://sharegpt.com conversations that potentially breaches OpenAI license)  
+GitHub: https://github.com/lm-sys/FastChat 
+Training cost:
+
 ### 🐋 [Free Willi 2](https://stability.ai/blog/freewilly-large-instruction-fine-tuned-models)  
 Parameters: 7B, 40B  
 Origin: Stability AI.  
@@ -11,7 +31,8 @@ Release date: July 2023
 Paper:   
 Commercial use possible: NO  
 GitHub: https://huggingface.co/stabilityai/FreeWilly2  
-Training cost:  
+Training cost:
+
 ### 🦙 [LLaMA2](https://ai.meta.com/llama/)  
 Parameters: 7B, 40B  
 Origin: Meta.  
@@ -20,7 +41,8 @@ Release date: July 2023
 Paper: https://arxiv.org/abs/2307.09288  
 Commercial use possible: YES  
 GitHub: https://huggingface.co/meta-llama  
-Training cost: A cumulative of 3.3M GPU hours of computation was performed on hardware of type A100-80GB (TDP of 400W or 350W). We estimate the total emissions for training to be 539 tCO2eq, of which 100% were directly offset by Meta’s sustainability program.  
+Training cost: A cumulative of 3.3M GPU hours of computation was performed on hardware of type A100-80GB (TDP of 400W or 350W). We estimate the total emissions for training to be 539 tCO2eq, of which 100% were directly offset by Meta’s sustainability program.
+
 ### 🦅 [Falcon](https://falconllm.tii.ae)  
 Parameters: 7B, 40B  
 Origin: UAE Technology Innovation Institute.  
