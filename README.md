@@ -1,6 +1,6 @@
 # Large Language Models (LLMs)
 
-There's an increasing number of Large Language Models, both closed and open source. For those looking at options, this repository provides an overview of those options, together with basic data about each option. 
+The world of Large Language Models (LLMs) is complex and varied. This resource collates together the things that matter, helping to make sense of this increasing important topic.
 
 ## CONTENTS
 - [LLM Chat](#LLM-CHAT)
