@@ -70,7 +70,7 @@ These various benchmarks are commonly used to compare LLM performance.
 ## LEADERBOARDS
 These leaderboards show how LLMs compare relative to each other.
 - [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
-- [Lmsys leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
+- [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [Alpaca Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
 
 ## OPEN SOURCE MODELS
