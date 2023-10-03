@@ -3,6 +3,16 @@
 There's an increasing number of Large Language Models, both closed and open source. For those looking at options, this repository provides an overview of those options, together with basic data about each option. 
 
 ## OPEN SOURCE MODELS
+### 🌬️ [Mistral](https://mistral.ai)  
+Parameters: 7B  
+Origin: [Mistral](https://mistral.ai)    
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)   
+Release date: October 2023  
+Paper:   
+Commercial use possible: YES  
+GitHub: https://huggingface.co/mistralai  
+Training cost:  
+Comment: Outperforms LLaMA2 13B
 ### 📏 [LongChat](https://lmsys.org/blog/2023-06-29-longchat/)  
 Parameters: 7B  
 Origin: [UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)    
