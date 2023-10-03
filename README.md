@@ -6,6 +6,8 @@ The world of Large Language Models (LLMs) is complex and varied. This resource c
 - [LLM Chat](#LLM-CHAT)
 - [Papers](#RESEARCH-PAPERS)
 - [Education](#EDUCATION)
+- [Benchmarks](#BENCHMARKS)
+- [Leaderboards](#LEADERBOARDS)
 - [Open Source Models](#OPEN-SOURCE-MODELS)
 - [Commercial Models](#COMMERCIAL-MODELS)
 
@@ -58,19 +60,18 @@ Get skilled up with these free and paid-for courses.
 - [Princeton: COS 597G - Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [Stanford: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
 
-## LLM BENCHMARKING
+## BENCHMARKING
 These various benchmarks are commonly used to compare LLM performance.
 - [ARC](https://arxiv.org/abs/2305.18354)
 - [HellaSwag](https://arxiv.org/abs/1905.07830)
 - [MMLU](https://arxiv.org/abs/2009.03300)
 - [TruthfulQA](https://arxiv.org/abs/2109.07958)
 
-## LLM LEADERBOARDS
+## LEADERBOARDS
 These leaderboards show how LLMs compare relative to each other.
 - [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [Lmsys leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [Alpaca Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
-
 
 ## OPEN SOURCE MODELS
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
