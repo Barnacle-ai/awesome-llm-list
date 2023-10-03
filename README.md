@@ -44,14 +44,14 @@ Commercial use possible: NO (trained on https://sharegpt.com conversations that 
 GitHub: https://github.com/lm-sys/FastChat 
 Training cost:
 
-### 🐋 [Free Willi 2](https://stability.ai/blog/freewilly-large-instruction-fine-tuned-models)  
+### 🐋 [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models)  
 Parameters: 7B, 40B  
 Origin: Stability AI.  
 License: [CC BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 Release date: July 2023  
 Paper:   
 Commercial use possible: NO  
-GitHub: https://huggingface.co/stabilityai/FreeWilly2  
+GitHub: https://huggingface.co/stabilityai/StableBeluga2  
 Training cost:
 
 ### 🦙 [LLaMA2](https://ai.meta.com/llama/)  
