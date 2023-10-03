@@ -3,12 +3,26 @@
 There's an increasing number of Large Language Models, both closed and open source. For those looking at options, this repository provides an overview of those options, together with basic data about each option. 
 
 ## CONTENTS
+- [LLM Chat](#LLM-CHAT)
 - [Papers](#RESEARCH-PAPERS)
 - [Education](#EDUCATION)
 - [Open Source Models](#OPEN-SOURCE-MODELS)
 - [Commercial Models](#COMMERCIAL-MODELS)
 
+## LLM CHAT
+Everyone knows ChatGPT, but do you know these others?
+- [OpenAI ChatGPT](https://chat.openai.com)
+- [Google Bard](https://bard.google.com)
+- [Anthropic Claude](https://claude.ai/)
+- [Inflection Pi](https://pi.ai/)
+- [Hugging Chat](https://huggingface.co/chat/)
+- [Microsoft Bing](https://www.bing.com/new)
+- [You](https://you.com)
+- [Perplexity](https://www.perplexity.ai)
+- [Chatsonic](https://writesonic.com/chat)
+
 ## RESEARCH PAPERS
+A selection of interesting & noteworthy research papers related to LLMs.
 - 2023: [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
 - 2023: [A Comprehensive Overview of Large Language Models](https://arxiv.org/abs/2307.06435)
 - 2023: [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2307.15217)
@@ -31,6 +45,7 @@ There's an increasing number of Large Language Models, both closed and open sour
 - 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - 2017: [Attention is all you need](https://arxiv.org/abs/1706.03762)
 ## EDUCATION
+Get skilled up with these free and paid-for courses.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
@@ -44,6 +59,7 @@ There's an increasing number of Large Language Models, both closed and open sour
 - [Stanford: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
 
 ## OPEN SOURCE MODELS
+Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
 ### 🌬️ [Mistral](https://mistral.ai)  
 Parameters: 7B  
 Origin: [Mistral](https://mistral.ai)    
@@ -306,6 +322,7 @@ Commercial use possible: NO
 GitHub: https://github.com/IBM/Dromedary 
 
 ## COMMERCIAL MODELS
+These commercial models are generally available through some form of usage-based payment model - you use more, you pay more.
 ### [OpenAI](https://openai.com)
 **GPT-4**  
 Parameters: undeclared  
