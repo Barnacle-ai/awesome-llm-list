@@ -2,6 +2,47 @@
 
 There's an increasing number of Large Language Models, both closed and open source. For those looking at options, this repository provides an overview of those options, together with basic data about each option. 
 
+## CONTENTS
+- [Papers](#RESEARCH-PAPERS)
+- [Education](#EDUCATION)
+- [Open Source Models](#OPEN-SOURCE-MODELS)
+- [Commercial Models](#COMMERCIAL-MODELS)
+
+## RESEARCH PAPERS
+- 2023: [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
+- 2023: [A Comprehensive Overview of Large Language Models](https://arxiv.org/abs/2307.06435)
+- 2023: [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2307.15217)
+- 2023: [Aligning Large Language Models with Human: A Survey](https://arxiv.org/abs/2307.12966?ref=txt.cohere.com)
+- 2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789v1?ref=txt.cohere.com)
+- 2023: [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
+- 2023: [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+- 2022: [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
+- 2022: [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
+- 2022: [What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization?](https://arxiv.org/abs/2204.05832)
+- 2022: [Training Compute-Optimal Large Language Models](https://doi.org/10.48550/arXiv.2203.15556)
+- 2022: [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155)
+- 2022: [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
+- 2022: [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+- 2021: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
+- 2021: [The Power of Scale for Parameter-Efficient Prompt Tuning](https://aclanthology.org/2021.emnlp-main.243/)
+- 2021: [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
+- 2020: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165 )
+- 2020: [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
+- 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+- 2017: [Attention is all you need](https://arxiv.org/abs/1706.03762)
+## EDUCATION
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
+- [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
+- [Lil'Log: Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+- [Prompt Engineering Guide](https://learnprompting.org/docs/intro)
+- [Cohere LLM University](https://docs.cohere.com/docs/llmu)
+- [Deep Learning: ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+- [Deep Learning: Learn the fundamentals of generative AI for real-world applications](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
+- [Deep Learning: LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+- [Princeton: COS 597G - Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
+- [Stanford: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
+
 ## OPEN SOURCE MODELS
 ### 🌬️ [Mistral](https://mistral.ai)  
 Parameters: 7B  
@@ -293,7 +334,7 @@ Pricing: https://openai.com/pricing
 Endpoints: N/A - consumer web-based solution.   
 Privacy: Data submitted on the web-based ChatGPT service is collected and used to train models https://openai.com/policies/api-data-usage-policies
 
-## [AI21Labs](https://www.ai21.com)
+### [AI21Labs](https://www.ai21.com)
 **Jurassic-2**  
 Parameters: undeclared (jurassic-1 had 178B)  
 Availability: GA  
@@ -304,7 +345,7 @@ Endpoints: A variety of endpoints available, including: task-specific endpoints 
 Privacy:  
 
 
-## [Anthropic](https://www.anthropic.com)
+### [Anthropic](https://www.anthropic.com)
 **Claude**  
 Parameters: undeclared  
 Availability: Waitlist https://www.anthropic.com/product   
@@ -315,7 +356,7 @@ Endpoints: Completions endpoint.
 Privacy: Data sent to/from is not used to train models unless feedback is given - https://vault.pactsafe.io/s/9f502c93-cb5c-4571-b205-1e479da61794/legal.html#terms  
 
 
-## [Google](https:google.com)  
+### [Google](https:google.com)  
 **Google Bard**  
 Parameters: 770M  
 Availability: Waitlist https://bard.google.com   
@@ -336,7 +377,7 @@ Endpoints: unknown
 Privacy: unknown
 
 
-## [Amazon](https://aws.amazon.com)
+### [Amazon](https://aws.amazon.com)
 **Amazon Titan**  
 Parameters: unknown  
 Availability: Announced but not yet available – https://aws.amazon.com/bedrock/titan/ai-developers-google-cloud-workspace/   
@@ -346,7 +387,7 @@ Pricing: unknown
 Endpoints: unknown  
 Privacy: unknown
 
-## [Cohere](https://cohere.ai)
+### [Cohere](https://cohere.ai)
 **Cohere**  
 Parameters: 52B  
 Availability: GA   
