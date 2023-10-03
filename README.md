@@ -60,7 +60,7 @@ Get skilled up with these free and paid-for courses.
 - [Princeton: COS 597G - Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [Stanford: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
 
-## BENCHMARKING
+## BENCHMARKS
 These various benchmarks are commonly used to compare LLM performance.
 - [ARC](https://arxiv.org/abs/2305.18354)
 - [HellaSwag](https://arxiv.org/abs/1905.07830)
