@@ -428,3 +428,15 @@ Paper:
 Pricing: https://cohere.com/pricing  
 Endpoints: A variety of endpoints including embedding, text completion, classification, summarisation, tokensisation, language detection.  
 Privacy: Data submitted is used to train models - https://cohere.com/terms-of-use
+
+### [IBM](https://www.ibm.com/products/watsonx-ai)
+**Granite**  
+Parameters: 13B, 20B  
+Availability: GA (granite.13b - .instruct, .chat; granite.20b.code - .ansible, .cobol; other variants on roadmap)  
+Fine-tuning: Currently Prompt Tuning via APIs  
+Paper: [https://www.ibm.com/downloads/cas/X9W4O6BM](https://www.ibm.com/downloads/cas/X9W4O6BM)  
+Pricing: [https://www.ibm.com/products/watsonx-ai/pricing](https://www.ibm.com/products/watsonx-ai/pricing)  
+Endpoints: Various endpoints - Q&A; Generate; Extract; Summarise; Classify  
+Privacy: IBM curated 6.48 TB of data before pre-processing, 2.07 TB after pre-processing. 1T tokens generated from a total of 14 datasets. Detail in [paper](https://www.ibm.com/downloads/cas/X9W4O6BM).  
+Training cost: granite.13b trained on 256 A100 for 1056 GPU hours.  
+Legal: IBM indemnifies customer use of these models on the watsonx platform
