@@ -437,6 +437,6 @@ Fine-tuning: Currently Prompt Tuning via APIs
 Paper: [https://www.ibm.com/downloads/cas/X9W4O6BM](https://www.ibm.com/downloads/cas/X9W4O6BM)  
 Pricing: [https://www.ibm.com/products/watsonx-ai/pricing](https://www.ibm.com/products/watsonx-ai/pricing)  
 Endpoints: Various endpoints - Q&A; Generate; Extract; Summarise; Classify  
-Privacy: IBM curated 6.48 TB of data before pre-processing, 2.07 TB after pre-processing. 1T tokens generated from a total of 14 datasets. Detail in [paper](https://www.ibm.com/downloads/cas/X9W4O6BM).  
+Privacy: IBM curated 6.48 TB of data before pre-processing, 2.07 TB after pre-processing. 1T tokens generated from a total of 14 datasets. Detail in [paper](https://www.ibm.com/downloads/cas/X9W4O6BM). Prompt data is not saved by IBM for other training purposes. Users have complete control in their storage area of any saved prompts, prompt sessions, or prompt tuned models.  
 Training cost: granite.13b trained on 256 A100 for 1056 GPU hours.  
 Legal: IBM indemnifies customer use of these models on the watsonx platform
