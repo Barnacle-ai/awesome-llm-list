@@ -46,6 +46,7 @@ A selection of interesting & noteworthy research papers related to LLMs.
 - 2020: [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 - 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - 2017: [Attention is all you need](https://arxiv.org/abs/1706.03762)
+
 ## EDUCATION
 Get skilled up with these free and paid-for courses.
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
@@ -72,6 +73,16 @@ These leaderboards show how LLMs compare relative to each other.
 - [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [Alpaca Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
+
+## GEN-AI FOR DEVELOPERS
+Coding assistants and the like can have a major positive impact on development productivity. There's now a burgeoning market of such tools with integration into popular IDEs.
+- [Code LLaMA](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/)
+- [GitHub Copilot](https://github.com/features/copilot)
+- [Replit Code](https://blog.replit.com/ai4all)
+- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+- [IBM watsonx Code Assistant](https://www.ibm.com/products/watsonx-code-assistant)
+- [Tabnine](https://www.tabnine.com)
+- [mutable.ai](https://mutable.ai)
 
 ## OPEN SOURCE MODELS
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
