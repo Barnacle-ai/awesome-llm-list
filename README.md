@@ -83,6 +83,7 @@ Coding assistants and the like can have a major positive impact on development p
 - [IBM watsonx Code Assistant](https://www.ibm.com/products/watsonx-code-assistant)
 - [Tabnine](https://www.tabnine.com)
 - [mutable.ai](https://mutable.ai)
+- [phind](https://www.phind.com)
 
 ## OPEN SOURCE MODELS
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
