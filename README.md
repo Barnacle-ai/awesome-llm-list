@@ -4,10 +4,12 @@ The world of Large Language Models (LLMs) is complex and varied. This resource c
 
 ## CONTENTS
 - [LLM Chat](#LLM-CHAT)
+- [Custom GPTs](#CUSTOM-GPTs)
 - [Papers](#RESEARCH-PAPERS)
 - [Education](#EDUCATION)
 - [Benchmarks](#BENCHMARKS)
 - [Leaderboards](#LEADERBOARDS)
+- [Gen-AI for developers](#GEN-AI-FOR-DEVELOPERS)
 - [Open Source Models](#OPEN-SOURCE-MODELS)
 - [Commercial Models](#COMMERCIAL-MODELS)
 
@@ -22,6 +24,9 @@ Everyone knows ChatGPT, but do you know these others?
 - [You](https://you.com)
 - [Perplexity](https://www.perplexity.ai)
 - [Chatsonic](https://writesonic.com/chat)
+
+## CUSTOM GPTs
+OpenAI's custom GPTs are on fire - checkout what people are developing [here](https://github.com/Anil-matcha/Awesome-GPT-Store).  
 
 ## RESEARCH PAPERS
 A selection of interesting & noteworthy research papers related to LLMs.
