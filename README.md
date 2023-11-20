@@ -34,6 +34,7 @@ OpenAI's custom GPTs are on fire - checkout what people are developing:
 
 ## RESEARCH PAPERS
 A selection of interesting & noteworthy research papers related to LLMs.
+- 2023: [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978)
 - 2023: [Memory Augmented Large Language Models are Computationally Universal](https://arxiv.org/abs/2301.04589)
 - 2023: [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)
 - 2023: [A Survey of Large Language Models](https://arxiv.org/abs/2303.18223)
