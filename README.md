@@ -61,6 +61,7 @@ A selection of interesting & noteworthy research papers related to LLMs.
 
 ## EDUCATION
 Get skilled up with these free and paid-for courses.
+- [Generative AI for Beginners - Microsoft](https://github.com/microsoft/generative-ai-for-beginners)
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
@@ -107,8 +108,8 @@ License: [MS Research License](https://huggingface.co/microsoft/Orca-2-7b/blob/m
 Release date: November 2023  
 Paper: https://arxiv.org/abs/2311.11045   
 Commercial use possible: NO  
-GitHub: https://huggingface.co/mistralai  
-Training cost:  
+GitHub: 7B: https://huggingface.co/microsoft/Orca-2-7b, 13B: https://huggingface.co/microsoft/Orca-2-13b  
+Training cost:  Orca 2 trained on 32 NVIDIA A100 GPUs with 80GB memory. For the 13B checkpoint, it took ~17 hours to train Orca 2 on FLAN dataset for one epoch, ~40 hours to train on 5 million ChatGPT data for 3 epochs and ~23 hours to continue training on ~1.8 million GPT-4 data for 4 epochs.
 Comment: Strong reasoning abilities for a small model
 
 ### 🌬️ [Mistral](https://mistral.ai)  
