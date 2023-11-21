@@ -99,6 +99,18 @@ Coding assistants and the like can have a major positive impact on development p
 
 ## OPEN SOURCE MODELS
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
+
+### 🐳 [Orca 2](https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/)  
+Parameters: 7B, 13B  
+Origin: [MS](https://www.microsoft.com/), fine-tuned LLaMA2    
+License: [MS Research License](https://huggingface.co/microsoft/Orca-2-7b/blob/main/LICENSE)   
+Release date: November 2023  
+Paper: https://arxiv.org/abs/2311.11045   
+Commercial use possible: NO  
+GitHub: https://huggingface.co/mistralai  
+Training cost:  
+Comment: Strong reasoning abilities for a small model
+
 ### 🌬️ [Mistral](https://mistral.ai)  
 Parameters: 7B  
 Origin: [Mistral](https://mistral.ai)    
@@ -109,6 +121,7 @@ Commercial use possible: YES
 GitHub: https://huggingface.co/mistralai  
 Training cost:  
 Comment: Outperforms LLaMA2 13B
+
 ### 📏 [LongChat](https://lmsys.org/blog/2023-06-29-longchat/)  
 Parameters: 7B  
 Origin: [UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)    
