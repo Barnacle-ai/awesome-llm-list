@@ -10,6 +10,7 @@ The world of Large Language Models (LLMs) is complex and varied. This resource c
 - [Benchmarks](#BENCHMARKS)
 - [Leaderboards](#LEADERBOARDS)
 - [Gen-AI for developers](#GEN-AI-FOR-DEVELOPERS)
+- [Inferencing Frameworks](#INFERENCING-FRAMEWORKS)
 - [Open Source Models](#OPEN-SOURCE-MODELS)
 - [Commercial Models](#COMMERCIAL-MODELS)
 
@@ -97,6 +98,14 @@ Coding assistants and the like can have a major positive impact on development p
 - [Tabnine](https://www.tabnine.com)
 - [mutable.ai](https://mutable.ai)
 - [phind](https://www.phind.com)
+
+## INFERENCING FRAMEWORKS
+If you want to host an LLM yourself, you're going to need one of these frameworks.
+- [vLLM](https://github.com/vllm-project/vllm)
+- [Hugging Face's Text Generation Inference](https://github.com/huggingface/text-generation-inference)
+- [CTranslate2](https://github.com/OpenNMT/CTranslate2)
+- [OpenLLM](https://github.com/bentoml/OpenLLM)
+- [Microsoft's DeepSpeed MII](https://github.com/microsoft/DeepSpeed-MII)
 
 ## OPEN SOURCE MODELS
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
