@@ -11,6 +11,7 @@ The world of Large Language Models (LLMs) is complex and varied. This resource c
 - [Leaderboards](#LEADERBOARDS)
 - [Gen-AI for developers](#GEN-AI-FOR-DEVELOPERS)
 - [Inferencing Frameworks](#INFERENCING-FRAMEWORKS)
+- [GPT4-V Alternatives](#GPT4V-ALTERNATIVES)
 - [Open Source Models](#OPEN-SOURCE-MODELS)
 - [Commercial Models](#COMMERCIAL-MODELS)
 
@@ -110,6 +111,14 @@ If you want to host an LLM yourself, you're going to need one of these framework
 - [CTranslate2](https://github.com/OpenNMT/CTranslate2)
 - [OpenLLM](https://github.com/bentoml/OpenLLM)
 - [Microsoft's DeepSpeed MII](https://github.com/microsoft/DeepSpeed-MII)
+
+## GPT4V ALTERNATIVES
+Turn images into text just like GPT-4V with these models.
+- [LLaVA](https://llava-vl.github.io)
+- [BakLLaVA](https://github.com/SkunkworksAI/BakLLaVA)
+- [CogVLM](https://github.com/THUDM/CogVLM)
+- [Fuyu-8B](https://www.adept.ai/blog/fuyu-8b)
+- [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
 
 ## OPEN SOURCE MODELS
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
