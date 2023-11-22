@@ -82,6 +82,9 @@ These various benchmarks are commonly used to compare LLM performance.
 - [HellaSwag](https://arxiv.org/abs/1905.07830)
 - [MMLU](https://arxiv.org/abs/2009.03300)
 - [TruthfulQA](https://arxiv.org/abs/2109.07958)
+- [Winogrande](https://winogrande.allenai.org)
+- [GSM8K](https://arxiv.org/abs/2110.14168)
+- [DROP](https://arxiv.org/abs/1903.00161)
 
 ## LEADERBOARDS
 These leaderboards show how LLMs compare relative to each other.
