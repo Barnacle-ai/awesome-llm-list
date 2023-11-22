@@ -45,6 +45,7 @@ A selection of interesting & noteworthy research papers related to LLMs.
 - 2023: [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789v1?ref=txt.cohere.com)
 - 2023: [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
 - 2023: [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+- 2022: [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/pdf/2209.07858.pdf)
 - 2022: [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
 - 2022: [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073)
 - 2022: [What Language Model Architecture and Pretraining Objective Work Best for Zero-Shot Generalization?](https://arxiv.org/abs/2204.05832)
