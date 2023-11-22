@@ -86,6 +86,7 @@ These various benchmarks are commonly used to compare LLM performance.
 - [Winogrande](https://winogrande.allenai.org)
 - [GSM8K](https://arxiv.org/abs/2110.14168)
 - [DROP](https://arxiv.org/abs/1903.00161)
+- [IDEFICS](https://huggingface.co/blog/idefics)
 
 ## LEADERBOARDS
 These leaderboards show how LLMs compare relative to each other.
