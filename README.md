@@ -124,6 +124,17 @@ Turn images into text just like GPT-4V with these models.
 ## OPEN SOURCE MODELS
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
 
+### 1️⃣ [Yi](https://01.ai)  
+Parameters: 7B, 34B  
+Origin: [01.AI](https://01.ai)    
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)   
+Release date: November 2023  
+Paper:   
+Commercial use possible: Via [request](https://www.lingyiwanwu.com/yi-license)  
+GitHub: https://github.com/01-ai/Yi  
+Training cost:  
+Comment: Strong perforamnce for small size.
+
 ### 🐳 [Orca 2](https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/)  
 Parameters: 7B, 13B  
 Origin: [MS](https://www.microsoft.com/), fine-tuned LLaMA2    
