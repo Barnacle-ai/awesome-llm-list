@@ -91,6 +91,7 @@ These various benchmarks are commonly used to compare LLM performance.
 
 ## LEADERBOARDS
 These leaderboards show how LLMs compare relative to each other.
+- [Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard)
 - [Hugging Face GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard)
 - [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
