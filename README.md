@@ -79,6 +79,7 @@ Get skilled up with these free and paid-for courses.
 
 ## BENCHMARKS
 These various benchmarks are commonly used to compare LLM performance.
+- [GAIA](https://arxiv.org/abs/2311.12983)
 - [ARC](https://arxiv.org/abs/2305.18354)
 - [HellaSwag](https://arxiv.org/abs/1905.07830)
 - [MMLU](https://arxiv.org/abs/2009.03300)
@@ -90,6 +91,7 @@ These various benchmarks are commonly used to compare LLM performance.
 
 ## LEADERBOARDS
 These leaderboards show how LLMs compare relative to each other.
+- [Hugging Face GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard)
 - [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [Alpaca Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
