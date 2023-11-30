@@ -172,7 +172,7 @@ Training cost:
 Comment: 32k context length!
 
 ### 🏯 [Qwen](https://huggingface.co/Qwen)  
-Parameters: 7B  
+Parameters: 7B, 14B, 72B  
 Origin: Alibaba  
 License: [Tongyi Qianwen](https://github.com/QwenLM/Qwen-7B/blob/main/LICENSE)  
 Release date: August 2023  
