@@ -127,6 +127,17 @@ Turn images into text just like GPT-4V with these models.
 ## OPEN SOURCE MODELS
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
 
+### 🐦‍⬛ [Starling](https://starling.cs.berkeley.edu)  
+Parameters: 7B  
+Origin: [Berkely, based on LLaMA2](https://starling.cs.berkeley.edu)    
+License: [LLaMA2 Community License](https://github.com/facebookresearch/llama/blob/main/LICENSE)   
+Release date: November 2023  
+Paper:    
+Commercial use possible: No - uses synthetic data from OpenAI GPT models  
+GitHub: https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha  
+Training cost:  
+Comment: Strong reasoning perforamnce for small size.
+
 ### 1️⃣ [Yi](https://01.ai)  
 Parameters: 7B, 34B  
 Origin: [01.AI](https://01.ai)    
@@ -136,7 +147,7 @@ Paper:
 Commercial use possible: Via [request](https://www.lingyiwanwu.com/yi-license)  
 GitHub: https://github.com/01-ai/Yi  
 Training cost:  
-Comment: Strong perforamnce for small size.
+Comment: Strong performance for small size.
 
 ### 🐳 [Orca 2](https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/)  
 Parameters: 7B, 13B  
