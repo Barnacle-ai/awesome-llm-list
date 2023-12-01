@@ -228,7 +228,7 @@ Parameters: 7B, 40B
 Origin: UAE Technology Innovation Institute.  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: May 2023  
-Paper:   
+Paper: https://arxiv.org/abs/2311.16867  
 Commercial use possible: YES  
 GitHub: https://huggingface.co/tiiuae/falcon-7b  
 GitHub: https://huggingface.co/tiiuae/falcon-7b-instruct  
