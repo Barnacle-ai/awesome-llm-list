@@ -33,6 +33,7 @@ OpenAI's custom GPTs are on fire - checkout what people are developing:
 - [Google site search](https://www.google.com/search?client=safari&rls=en&q=site%3Achat.openai.com%2Fg%2F&ie=UTF-8&oe=UTF-8#ip=1)
 - [GPT Builders](https://www.skool.com/gpt-builders-9568/about)
 - [GPT Index](https://gptsdex.com)  
+- [GPTs-base](https://gpts-base.com)
 
 ## RESEARCH PAPERS
 A selection of interesting & noteworthy research papers related to LLMs.
