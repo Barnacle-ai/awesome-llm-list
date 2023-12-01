@@ -166,7 +166,7 @@ Parameters: 7B
 Origin: [Mistral](https://mistral.ai)    
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)   
 Release date: October 2023  
-Paper:   
+Paper: https://arxiv.org/abs/2310.06825  
 Commercial use possible: YES  
 GitHub: https://huggingface.co/mistralai  
 Training cost:  
