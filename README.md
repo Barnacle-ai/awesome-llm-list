@@ -128,6 +128,28 @@ Turn images into text just like GPT-4V with these models.
 ## OPEN SOURCE MODELS
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
 
+### 🌬️ [Notus](https://argilla.io/blog/notus7b/)  
+Parameters: 7B  
+Origin: [Argilla](https://argilla.io/), fine-tuneed from Mistral    
+License: [MIT](https://choosealicense.com/licenses/mit/)   
+Release date: December 2023  
+Paper:    
+Commercial use possible: No - uses synthetic data from OpenAI GPT models  
+GitHub: https://huggingface.co/argilla/notus-7b-v1  
+Training cost:  
+Comment: Strong perforamnce for small size, uses DPO fine-tuning.
+
+### 🍃 [Zephyr](https://huggingface.co/collections/HuggingFaceH4/zephyr-7b-6538c6d6d5ddd1cbb1744a66)  
+Parameters: 7B  
+Origin: [HuggingFace](https://huggingface.co), fine-tuneed from Mistral    
+License: [MIT](https://choosealicense.com/licenses/mit/)   
+Release date: November 2023  
+Paper:    
+Commercial use possible: No - uses synthetic data from OpenAI GPT models  
+GitHub: https://huggingface.co/collections/HuggingFaceH4/zephyr-7b-6538c6d6d5ddd1cbb1744a66  
+Training cost:  
+Comment: Strong perforamnce for small size, uses DPO fine-tuning.
+
 ### 🐦‍⬛ [Starling](https://starling.cs.berkeley.edu)  
 Parameters: 7B  
 Origin: [Berkely, based on LLaMA2](https://starling.cs.berkeley.edu)    
