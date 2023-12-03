@@ -12,6 +12,7 @@ The world of Large Language Models (LLMs) is complex and varied. This resource c
 - [Gen-AI for developers](#GEN-AI-FOR-DEVELOPERS)
 - [Inferencing Frameworks](#INFERENCING-FRAMEWORKS)
 - [GPT4-V Alternatives](#GPT4V-ALTERNATIVES)
+- [Cloud GPUs](#CLOUD-GPUs)
 - [Open Source Models](#OPEN-SOURCE-MODELS)
 - [Commercial Models](#COMMERCIAL-MODELS)
 
@@ -125,6 +126,12 @@ Turn images into text just like GPT-4V with these models.
 - [CogVLM](https://github.com/THUDM/CogVLM)
 - [Fuyu-8B](https://www.adept.ai/blog/fuyu-8b)
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
+
+## CLOUD GPUs
+Training and inferencing needs GPUs. You can get these on any cloud provider, but there's some specialist ones that are worth considering:
+- [RunPod](https://www.runpod.io)
+- [LambdaLabs](https://lambdalabs.com)
+- [Vast.ai](https://vast.ai)
 
 ## OPEN SOURCE MODELS
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
