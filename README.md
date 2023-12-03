@@ -77,6 +77,7 @@ Get skilled up with these free and paid-for courses.
 - [Deep Learning: LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 - [Princeton: COS 597G - Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [Stanford: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
+- [Machine Learning Engineering Online Book](https://github.com/stas00/ml-engineering/tree/master)
 
 ## BENCHMARKS
 These various benchmarks are commonly used to compare LLM performance.
