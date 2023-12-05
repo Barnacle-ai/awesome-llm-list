@@ -79,6 +79,7 @@ Get skilled up with these free and paid-for courses.
 - [Princeton: COS 597G - Understanding Large Language Models](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [Stanford: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
 - [Machine Learning Engineering Online Book](https://github.com/stas00/ml-engineering/tree/master)
+- [Large Language Model Course](https://github.com/mlabonne/llm-course)
 
 ## BENCHMARKS
 These various benchmarks are commonly used to compare LLM performance.
@@ -128,7 +129,7 @@ Turn images into text just like GPT-4V with these models.
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
 
 ## CLOUD GPUs
-Training and inferencing needs GPUs. You can get these on any cloud provider, but there's some specialist ones that are worth considering:
+Training and inferencing your own model needs GPUs. You can get these on any cloud provider, but there's some specialist ones that are worth considering.
 - [RunPod](https://www.runpod.io)
 - [LambdaLabs](https://lambdalabs.com)
 - [Vast.ai](https://vast.ai)
