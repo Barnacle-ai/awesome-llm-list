@@ -80,6 +80,7 @@ Get skilled up with these free and paid-for courses.
 - [Stanford: CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
 - [Machine Learning Engineering Online Book](https://github.com/stas00/ml-engineering/tree/master)
 - [Large Language Model Course](https://github.com/mlabonne/llm-course)
+- [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 
 ## BENCHMARKS
 These various benchmarks are commonly used to compare LLM performance.
