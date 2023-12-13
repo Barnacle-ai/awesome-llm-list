@@ -138,6 +138,28 @@ Training and inferencing your own model needs GPUs. You can get these on any clo
 ## OPEN SOURCE MODELS
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
 
+### 🌬️ [DeciLM-7B-Instruct](https://deci.ai/model-zoo/decilm-7b-instruct/)  
+Parameters: 7B  
+Origin: [Deci.ai](https://deci.ai/)    
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)   
+Release date: December 2023  
+Paper:  
+Commercial use possible: YES  
+GitHub: https://huggingface.co/Deci/DeciLM-7B-instruct   
+Training cost:  
+
+
+### 🌬️ [Mistral 8x7B](https://mistral.ai)  
+Parameters: 8x7B Mixture of Experts  
+Origin: [Mistral](https://mistral.ai/news/mixtral-of-experts/)    
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)   
+Release date: December 2023  
+Paper:  
+Commercial use possible: YES  
+GitHub: https://huggingface.co/mistralai  
+Training cost:  
+Comment: Seems to rival GPT-3.5 in benchmarks at a fraction of the size
+
 ### 🌬️ [Notus](https://argilla.io/blog/notus7b/)  
 Parameters: 7B  
 Origin: [Argilla](https://argilla.io/), fine-tuneed from Mistral    
