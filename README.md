@@ -66,6 +66,7 @@ A selection of interesting & noteworthy research papers related to LLMs.
 
 ## EDUCATION
 Get skilled up with these free and paid-for courses.
+- [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Generative AI for Beginners - Microsoft](https://github.com/microsoft/generative-ai-for-beginners)
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [LLM Bootcamp](https://fullstackdeeplearning.com/llm-bootcamp/)
