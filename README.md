@@ -102,6 +102,7 @@ These leaderboards show how LLMs compare relative to each other.
 - [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
 - [Alpaca Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
+- [AllenAI CommonGen-Eval](https://inklab.usc.edu/CommonGen/leaderboard.html)
 
 ## GEN-AI FOR DEVELOPERS
 Coding assistants and the like can have a major positive impact on development productivity. There's now a burgeoning market of such tools with integration into popular IDEs.
