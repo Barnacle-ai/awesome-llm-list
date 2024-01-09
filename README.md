@@ -140,6 +140,16 @@ Training and inferencing your own model needs GPUs. You can get these on any clo
 ## OPEN SOURCE MODELS
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
 
+### φ [Phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)  
+Parameters: 2.7B  
+Origin: [Microsoft](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)    
+License: [MIT](https://choosealicense.com/licenses/mit/)   
+Release date: December 2023  
+Paper:  
+Commercial use possible: YES  
+GitHub: https://huggingface.co/microsoft/phi-2   
+Training cost:  
+
 ### 🌬️ [DeciLM-7B-Instruct](https://deci.ai/model-zoo/decilm-7b-instruct/)  
 Parameters: 7B  
 Origin: [Deci.ai](https://deci.ai/)    
