@@ -38,6 +38,8 @@ OpenAI's custom GPTs are on fire - checkout what people are developing:
 
 ## RESEARCH PAPERS
 A selection of interesting & noteworthy research papers related to LLMs.
+- 2023: [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/abs/2312.16171)
+- 2023: [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
 - 2023: [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978)
 - 2023: [Memory Augmented Large Language Models are Computationally Universal](https://arxiv.org/abs/2301.04589)
 - 2023: [S-LoRA: Serving Thousands of Concurrent LoRA Adapters](https://arxiv.org/abs/2311.03285)
@@ -166,7 +168,7 @@ Parameters: 8x7B Mixture of Experts
 Origin: [Mistral](https://mistral.ai/news/mixtral-of-experts/)    
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)   
 Release date: December 2023  
-Paper:  
+Paper: https://arxiv.org/abs/2401.04088  
 Commercial use possible: YES  
 GitHub: https://huggingface.co/mistralai  
 Training cost:  
