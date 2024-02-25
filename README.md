@@ -3,6 +3,7 @@
 The world of Large Language Models (LLMs) is complex and varied. This resource collates together the things that matter, helping to make sense of this increasing important topic.
 
 ## CONTENTS
+
 - [LLM Chat](#LLM-CHAT)
 - [Custom GPTs](#CUSTOM-GPTs)
 - [Papers](#RESEARCH-PAPERS)
@@ -17,7 +18,9 @@ The world of Large Language Models (LLMs) is complex and varied. This resource c
 - [Commercial Models](#COMMERCIAL-MODELS)
 
 ## LLM CHAT
+
 Everyone knows ChatGPT, but do you know these others?
+
 - [OpenAI ChatGPT](https://chat.openai.com)
 - [Google Bard](https://bard.google.com)
 - [Anthropic Claude](https://claude.ai/)
@@ -29,15 +32,19 @@ Everyone knows ChatGPT, but do you know these others?
 - [Chatsonic](https://writesonic.com/chat)
 
 ## CUSTOM GPTs
+
 OpenAI's custom GPTs are on fire - checkout what people are developing:
+
 - [Awesome GPT Store](https://github.com/Anil-matcha/Awesome-GPT-Store)
 - [Google site search](https://www.google.com/search?client=safari&rls=en&q=site%3Achat.openai.com%2Fg%2F&ie=UTF-8&oe=UTF-8#ip=1)
 - [GPT Builders](https://www.skool.com/gpt-builders-9568/about)
-- [GPT Index](https://gptsdex.com)  
+- [GPT Index](https://gptsdex.com)
 - [GPTs-base](https://gpts-base.com)
 
 ## RESEARCH PAPERS
+
 A selection of interesting & noteworthy research papers related to LLMs.
+
 - 2023: [Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://arxiv.org/abs/2312.16171)
 - 2023: [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290)
 - 2023: [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://arxiv.org/abs/2306.00978)
@@ -61,13 +68,15 @@ A selection of interesting & noteworthy research papers related to LLMs.
 - 2021: [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - 2021: [The Power of Scale for Parameter-Efficient Prompt Tuning](https://aclanthology.org/2021.emnlp-main.243/)
 - 2021: [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
-- 2020: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165 )
+- 2020: [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 - 2020: [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361)
 - 2018: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - 2017: [Attention is all you need](https://arxiv.org/abs/1706.03762)
 
 ## EDUCATION
+
 Get skilled up with these free and paid-for courses.
+
 - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Generative AI for Beginners - Microsoft](https://github.com/microsoft/generative-ai-for-beginners)
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
@@ -86,7 +95,9 @@ Get skilled up with these free and paid-for courses.
 - [Brex's Prompt Engineering Guide](https://github.com/brexhq/prompt-engineering)
 
 ## BENCHMARKS
+
 These various benchmarks are commonly used to compare LLM performance.
+
 - [GAIA](https://arxiv.org/abs/2311.12983)
 - [ARC](https://arxiv.org/abs/2305.18354)
 - [HellaSwag](https://arxiv.org/abs/1905.07830)
@@ -98,17 +109,21 @@ These various benchmarks are commonly used to compare LLM performance.
 - [IDEFICS](https://huggingface.co/blog/idefics)
 
 ## LEADERBOARDS
+
 These leaderboards show how LLMs compare relative to each other.
+
 - [Hallucination Leaderboard](https://github.com/vectara/hallucination-leaderboard)
 - [Hugging Face GAIA Leaderboard](https://huggingface.co/spaces/gaia-benchmark/leaderboard)
 - [Hugging Face Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [Chatbot Arena Leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
-- [Alpaca Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
+- [AlpacaEval Leaderboard](https://tatsu-lab.github.io/alpaca_eval/)
 - [AllenAI CommonGen-Eval](https://inklab.usc.edu/CommonGen/leaderboard.html)
 - [OpenCompass](https://opencompass.org.cn/leaderboard-llm)
 
 ## GEN-AI FOR DEVELOPERS
+
 Coding assistants and the like can have a major positive impact on development productivity. There's now a burgeoning market of such tools with integration into popular IDEs.
+
 - [Code LLaMA](https://about.fb.com/news/2023/08/code-llama-ai-for-coding/)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [Replit Code](https://blog.replit.com/ai4all)
@@ -119,7 +134,9 @@ Coding assistants and the like can have a major positive impact on development p
 - [phind](https://www.phind.com)
 
 ## INFERENCING FRAMEWORKS
+
 If you want to host an LLM yourself, you're going to need one of these frameworks.
+
 - [vLLM](https://github.com/vllm-project/vllm)
 - [Hugging Face's Text Generation Inference](https://github.com/huggingface/text-generation-inference)
 - [CTranslate2](https://github.com/OpenNMT/CTranslate2)
@@ -127,7 +144,9 @@ If you want to host an LLM yourself, you're going to need one of these framework
 - [Microsoft's DeepSpeed MII](https://github.com/microsoft/DeepSpeed-MII)
 
 ## GPT4V ALTERNATIVES
+
 Turn images into text just like GPT-4V with these models.
+
 - [LLaVA](https://llava-vl.github.io)
 - [BakLLaVA](https://github.com/SkunkworksAI/BakLLaVA)
 - [CogVLM](https://github.com/THUDM/CogVLM)
@@ -135,39 +154,55 @@ Turn images into text just like GPT-4V with these models.
 - [Qwen-VL](https://github.com/QwenLM/Qwen-VL)
 
 ## CLOUD GPUs
+
 Training and inferencing your own model needs GPUs. You can get these on any cloud provider, but there's some specialist ones that are worth considering.
+
 - [RunPod](https://www.runpod.io)
 - [LambdaLabs](https://lambdalabs.com)
 - [Vast.ai](https://vast.ai)
 
 ## OPEN SOURCE MODELS
+
 Open source models are generally understood to be free to use, but some models have restrictive licensing that prohibits commercial use or restricts usage in some way. Be careful to check out the exact license for the model you want to use, making sure you understand exactly what is permissable.
 
-### φ [Phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)  
+### G [Gemma](https://blog.google/technology/developers/gemma-open-models/)
+
+Parameters: 2B, 7B  
+Origin: [Google](https://ai.google.dev/gemma/docs)  
+License: [Gemma](https://ai.google.dev/gemma/terms)  
+Release date: February 2024  
+Paper:  
+Commercial use possible: YES  
+GitHub: https://huggingface.co/models?search=google/gemma  
+Training cost:
+
+### φ [Phi-2](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)
+
 Parameters: 2.7B  
-Origin: [Microsoft](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)    
-License: [MIT](https://choosealicense.com/licenses/mit/)   
+Origin: [Microsoft](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/)  
+License: [MIT](https://choosealicense.com/licenses/mit/)  
 Release date: December 2023  
 Paper:  
 Commercial use possible: YES  
-GitHub: https://huggingface.co/microsoft/phi-2   
-Training cost:  
+GitHub: https://huggingface.co/microsoft/phi-2  
+Training cost:
 
-### 🌬️ [DeciLM-7B-Instruct](https://deci.ai/model-zoo/decilm-7b-instruct/)  
+### 🌬️ [DeciLM-7B-Instruct](https://deci.ai/model-zoo/decilm-7b-instruct/)
+
 Parameters: 7B  
-Origin: [Deci.ai](https://deci.ai/)    
-License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)   
+Origin: [Deci.ai](https://deci.ai/)  
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: December 2023  
 Paper:  
 Commercial use possible: YES  
-GitHub: https://huggingface.co/Deci/DeciLM-7B-instruct   
-Training cost:  
+GitHub: https://huggingface.co/Deci/DeciLM-7B-instruct  
+Training cost:
 
+### 🌬️ [Mistral 8x7B](https://mistral.ai)
 
-### 🌬️ [Mistral 8x7B](https://mistral.ai)  
 Parameters: 8x7B Mixture of Experts  
-Origin: [Mistral](https://mistral.ai/news/mixtral-of-experts/)    
-License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)   
+Origin: [Mistral](https://mistral.ai/news/mixtral-of-experts/)  
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: December 2023  
 Paper: https://arxiv.org/abs/2401.04088  
 Commercial use possible: YES  
@@ -175,65 +210,71 @@ GitHub: https://huggingface.co/mistralai
 Training cost:  
 Comment: Seems to rival GPT-3.5 in benchmarks at a fraction of the size
 
-### 🌬️ [Notus](https://argilla.io/blog/notus7b/)  
+### 🌬️ [Notus](https://argilla.io/blog/notus7b/)
+
 Parameters: 7B  
-Origin: [Argilla](https://argilla.io/), fine-tuneed from Mistral    
-License: [MIT](https://choosealicense.com/licenses/mit/)   
+Origin: [Argilla](https://argilla.io/), fine-tuneed from Mistral  
+License: [MIT](https://choosealicense.com/licenses/mit/)  
 Release date: December 2023  
-Paper:    
+Paper:  
 Commercial use possible: No - uses synthetic data from OpenAI GPT models  
 GitHub: https://huggingface.co/argilla/notus-7b-v1  
 Training cost:  
 Comment: Strong perforamnce for small size, uses DPO fine-tuning.
 
-### 🍃 [Zephyr](https://huggingface.co/collections/HuggingFaceH4/zephyr-7b-6538c6d6d5ddd1cbb1744a66)  
+### 🍃 [Zephyr](https://huggingface.co/collections/HuggingFaceH4/zephyr-7b-6538c6d6d5ddd1cbb1744a66)
+
 Parameters: 7B  
-Origin: [HuggingFace](https://huggingface.co), fine-tuneed from Mistral    
-License: [MIT](https://choosealicense.com/licenses/mit/)   
+Origin: [HuggingFace](https://huggingface.co), fine-tuneed from Mistral  
+License: [MIT](https://choosealicense.com/licenses/mit/)  
 Release date: November 2023  
-Paper:    
+Paper:  
 Commercial use possible: No - uses synthetic data from OpenAI GPT models  
 GitHub: https://huggingface.co/collections/HuggingFaceH4/zephyr-7b-6538c6d6d5ddd1cbb1744a66  
 Training cost:  
 Comment: Strong perforamnce for small size, uses DPO fine-tuning.
 
-### 🐦‍⬛ [Starling](https://starling.cs.berkeley.edu)  
+### 🐦‍⬛ [Starling](https://starling.cs.berkeley.edu)
+
 Parameters: 7B  
-Origin: [Berkely, based on LLaMA2](https://starling.cs.berkeley.edu)    
-License: [LLaMA2 Community License](https://github.com/facebookresearch/llama/blob/main/LICENSE)   
+Origin: [Berkely, based on LLaMA2](https://starling.cs.berkeley.edu)  
+License: [LLaMA2 Community License](https://github.com/facebookresearch/llama/blob/main/LICENSE)  
 Release date: November 2023  
-Paper:    
+Paper:  
 Commercial use possible: No - uses synthetic data from OpenAI GPT models  
 GitHub: https://huggingface.co/berkeley-nest/Starling-LM-7B-alpha  
 Training cost:  
 Comment: Strong reasoning perforamnce for small size.
 
-### 1️⃣ [Yi](https://01.ai)  
+### 1️⃣ [Yi](https://01.ai)
+
 Parameters: 7B, 34B  
-Origin: [01.AI](https://01.ai)    
-License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)   
+Origin: [01.AI](https://01.ai)  
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: November 2023  
-Paper:   
+Paper:  
 Commercial use possible: Via [request](https://www.lingyiwanwu.com/yi-license)  
 GitHub: https://github.com/01-ai/Yi  
 Training cost:  
 Comment: Strong performance for small size.
 
-### 🐳 [Orca 2](https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/)  
+### 🐳 [Orca 2](https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/)
+
 Parameters: 7B, 13B  
-Origin: [MS](https://www.microsoft.com/), fine-tuned LLaMA2    
-License: [MS Research License](https://huggingface.co/microsoft/Orca-2-7b/blob/main/LICENSE)   
+Origin: [MS](https://www.microsoft.com/), fine-tuned LLaMA2  
+License: [MS Research License](https://huggingface.co/microsoft/Orca-2-7b/blob/main/LICENSE)  
 Release date: November 2023  
-Paper: https://arxiv.org/abs/2311.11045   
+Paper: https://arxiv.org/abs/2311.11045  
 Commercial use possible: NO  
 GitHub: 7B: https://huggingface.co/microsoft/Orca-2-7b, 13B: https://huggingface.co/microsoft/Orca-2-13b  
-Training cost:  Orca 2 trained on 32 NVIDIA A100 GPUs with 80GB memory. For the 13B checkpoint, it took ~17 hours to train Orca 2 on FLAN dataset for one epoch, ~40 hours to train on 5 million ChatGPT data for 3 epochs and ~23 hours to continue training on ~1.8 million GPT-4 data for 4 epochs.
+Training cost: Orca 2 trained on 32 NVIDIA A100 GPUs with 80GB memory. For the 13B checkpoint, it took ~17 hours to train Orca 2 on FLAN dataset for one epoch, ~40 hours to train on 5 million ChatGPT data for 3 epochs and ~23 hours to continue training on ~1.8 million GPT-4 data for 4 epochs.
 Comment: Strong reasoning abilities for a small model
 
-### 🌬️ [Mistral](https://mistral.ai)  
+### 🌬️ [Mistral](https://mistral.ai)
+
 Parameters: 7B  
-Origin: [Mistral](https://mistral.ai)    
-License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)   
+Origin: [Mistral](https://mistral.ai)  
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: October 2023  
 Paper: https://arxiv.org/abs/2310.06825  
 Commercial use possible: YES  
@@ -241,48 +282,53 @@ GitHub: https://huggingface.co/mistralai
 Training cost:  
 Comment: Outperforms LLaMA2 13B
 
-### 📏 [LongChat](https://lmsys.org/blog/2023-06-29-longchat/)  
+### 📏 [LongChat](https://lmsys.org/blog/2023-06-29-longchat/)
+
 Parameters: 7B  
-Origin: [UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)    
-License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)   
+Origin: [UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)  
+License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: August 2023  
-Paper:   
+Paper:  
 Commercial use possible: YES  
 GitHub: https://github.com/DachengLi1/LongChat  
 Training cost:  
 Comment: 32k context length!
 
-### 🏯 [Qwen](https://huggingface.co/Qwen)  
+### 🏯 [Qwen](https://huggingface.co/Qwen)
+
 Parameters: 7B, 14B, 72B  
 Origin: Alibaba  
 License: [Tongyi Qianwen](https://github.com/QwenLM/Qwen-7B/blob/main/LICENSE)  
 Release date: August 2023  
-Paper:   
+Paper:  
 Commercial use possible: YES  
 GitHub: https://github.com/QwenLM/Qwen-7B  
 Training cost:
 
-### 🦙 [Vicuna 1.5](https://vicuna.lmsys.org/)  
+### 🦙 [Vicuna 1.5](https://vicuna.lmsys.org/)
+
 Parameters: 13B  
 Origin: [UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: August 2023 (v1.5 uses LLaMA2 instead of LLaMA of prior releases)  
 Paper:  
 Commercial use possible: NO (trained on https://sharegpt.com conversations that potentially breaches OpenAI license)  
-GitHub: https://github.com/lm-sys/FastChat 
+GitHub: https://github.com/lm-sys/FastChat
 Training cost:
 
-### 🐋 [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models)  
+### 🐋 [Stable Beluga](https://stability.ai/blog/stable-beluga-large-instruction-fine-tuned-models)
+
 Parameters: 7B, 40B  
 Origin: Stability AI.  
 License: [CC BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)  
 Release date: July 2023  
-Paper:   
+Paper:  
 Commercial use possible: NO  
 GitHub: https://huggingface.co/stabilityai/StableBeluga2  
 Training cost:
 
-### 🦙 [LLaMA2](https://ai.meta.com/llama/)  
+### 🦙 [LLaMA2](https://ai.meta.com/llama/)
+
 Parameters: 7B, 40B  
 Origin: Meta.  
 License: [Llama 2 Community License Agreement](https://ai.meta.com/resources/models-and-libraries/llama-downloads/)  
@@ -292,7 +338,8 @@ Commercial use possible: YES
 GitHub: https://huggingface.co/meta-llama  
 Training cost: A cumulative of 3.3M GPU hours of computation was performed on hardware of type A100-80GB (TDP of 400W or 350W). We estimate the total emissions for training to be 539 tCO2eq, of which 100% were directly offset by Meta’s sustainability program.
 
-### 🦅 [Falcon](https://falconllm.tii.ae)  
+### 🦅 [Falcon](https://falconllm.tii.ae)
+
 Parameters: 7B, 40B  
 Origin: UAE Technology Innovation Institute.  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
@@ -305,13 +352,14 @@ GitHub: https://huggingface.co/tiiuae/falcon-40b
 GitHub: https://huggingface.co/tiiuae/falcon-40b-instruct  
 Training cost: Falcon-40B was trained on AWS SageMaker, on 384 A100 40GB GPUs in P4d instances.
 
-### 🧩 [MosaicML MPT-30B](https://www.mosaicml.com/blog/mpt-30b)  
+### 🧩 [MosaicML MPT-30B](https://www.mosaicml.com/blog/mpt-30b)
+
 Parameters: 30B  
 Origin: Open souce from MosaicML.  
 License (MPT-30B Base, Instruct): [Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)  
 License (MPT-30B Chat): [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Release date: June 2023  
-Paper:   
+Paper:  
 Commercial use possible: YES(Base & Instruct), NO(Chat)  
 GitHub: Base: https://huggingface.co/mosaicml/mpt-30b  
 GitHub: Instruct: https://huggingface.co/mosaicml/mpt-30b-instruct  
@@ -319,7 +367,8 @@ GitHub: Chat: https://huggingface.co/mosaicml/mpt-30b-chat
 Training cost: From Scratch: 512xA100-40GB, 28.3 Days, ~ $871,000.  
 Traingin cost: Finetune 30B Base model: 16xA100-40GB, 21.8 Hours, $871
 
-### 🧩 [MosaicML MPT-7B](https://www.mosaicml.com/blog/mpt-7b)  
+### 🧩 [MosaicML MPT-7B](https://www.mosaicml.com/blog/mpt-7b)
+
 Parameters: 7B  
 Origin: Open souce from MosaicML. Claimed to be competitive with LLaMA-7B. Base, storywriter, instruct, chat fine-tunings available.  
 License (MPT-7B Base): [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
@@ -327,40 +376,44 @@ License (MPT-7B-StoryWriter-65k+): [Apache 2.0](https://www.apache.org/licenses/
 License (MPT-7B-Instruct): [CC-By-SA-3.0](https://creativecommons.org/licenses/by-sa/3.0/)  
 License (MPT-7B-Chat): [CC-By-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Release date: May 2023  
-Paper:   
+Paper:  
 Commercial use possible: YES  
 GitHub: https://huggingface.co/togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1  
-Training cost: Nearly all of the training budget was spent on the base MPT-7B model, which took ~9.5 days to train on 440xA100-40GB GPUs, and cost ~$200k  
+Training cost: Nearly all of the training budget was spent on the base MPT-7B model, which took ~9.5 days to train on 440xA100-40GB GPUs, and cost ~$200k
 
-### 🦙 [Together RedPajama-INCITE](https://www.together.xyz/blog/redpajama-models-v1)  
+### 🦙 [Together RedPajama-INCITE](https://www.together.xyz/blog/redpajama-models-v1)
+
 Parameters: 3B, 7B  
 Origin: "Official" version of the Open Source recreation of LLaMA + chat/instruction-tuned versions  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: May 2023  
-Paper:   
+Paper:  
 Commercial use possible: YES  
 GitHub: https://huggingface.co/togethercomputer/RedPajama-INCITE-Instruct-7B-v0.1  
 Training cost: The training of the first collection of RedPajama-INCITE models is performed on 3,072 V100 GPUs provided as part of the INCITE compute grant on Summit supercomputer at the Oak Ridge Leadership Computing Facility (OLCF).
 
-### 🦙 [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)  
+### 🦙 [OpenAlpaca](https://github.com/yxuansu/OpenAlpaca)
+
 Parameters: 7B  
 Origin: An instruction tuned version of OpenLLaMA  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: May 2023  
-Paper:   
+Paper:  
 Commercial use possible: YES  
-GitHub: https://github.com/yxuansu/OpenAlpaca  
+GitHub: https://github.com/yxuansu/OpenAlpaca
 
-### 🦙 [OpenLLaMA](https://github.com/openlm-research/open_llama)  
+### 🦙 [OpenLLaMA](https://github.com/openlm-research/open_llama)
+
 Parameters: 7B  
 Origin: A claimed recreation of Meta's LLaMA without the licensing restrictions
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: May 2023  
-Paper:   
+Paper:  
 Commercial use possible: YES  
-GitHub: https://github.com/openlm-research/open_llama  
+GitHub: https://github.com/openlm-research/open_llama
 
-### 🐪 [Camel](https://huggingface.co/Writer/camel-5b-hf)  
+### 🐪 [Camel](https://huggingface.co/Writer/camel-5b-hf)
+
 Parameters: 5B, (20B coming)  
 Origin: [Writer](https://writer.com)  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
@@ -369,25 +422,28 @@ Paper:
 Commercial use possible: YES  
 GitHub: https://github.com/basetenlabs/camel-5b-truss
 
-### 🏛️ [Palmyra](https://huggingface.co/Writer/palmyra-base)  
+### 🏛️ [Palmyra](https://huggingface.co/Writer/palmyra-base)
+
 Parameters: 5B, (20B coming)  
 Origin: [Writer](https://writer.com)  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: April 2023  
 Paper:  
 Commercial use possible: YES  
-GitHub: 
+GitHub:
 
-### 🐎 [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)  
+### 🐎 [StableLM](https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models)
+
 Parameters: 3B, 7B, (15B, 65B coming)  
 Origin: [Stability.ai](https://stability.ai)  
 License: [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
 Release date: April 2023  
 Paper:  
 Commercial use possible: YES  
-GitHub: https://github.com/Stability-AI/StableLM  
+GitHub: https://github.com/Stability-AI/StableLM
 
-### 🧱 [Databricks Dolly 2](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)  
+### 🧱 [Databricks Dolly 2](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
+
 Parameters: 12B  
 Origin: [Databricks](https://www.databricks.com), an instruction tuned version of EleutherAI pythia  
 License: [CC BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
@@ -397,67 +453,75 @@ Commercial use possible: YES
 GitHub: https://github.com/databrickslabs/dolly  
 Training cost: Databricks cite "for thousands of dollars and in a few hours, Dolly 2.0 was built by fine tuning a 12B parameter open-source model (EleutherAI's Pythia) on a human-generated dataset of 15K Q&A pairs". This, of course, is just for the fine-tuning and the cost of training the underlying Pythia model also needs to be taken into account when estimating total training cost.
 
-### 🦙 [Vicuna](https://vicuna.lmsys.org/)  
+### 🦙 [Vicuna](https://vicuna.lmsys.org/)
+
 Parameters: 13B  
 Origin: [UC Berkeley, CMU, Stanford, and UC San Diego](https://vicuna.lmsys.org/)  
 License: Requires access to LlaMA, trained on https://sharegpt.com conversations that potentially breaches OpenAI license  
 Release date: April 2023  
 Paper:  
 Commercial use possible: NO  
-GitHub: https://github.com/lm-sys/FastChat  
+GitHub: https://github.com/lm-sys/FastChat
 
-### 🧠 [Cerebras-GPT](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)  
+### 🧠 [Cerebras-GPT](https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/)
+
 Parameters: 111M, 256M, 590M, 1.3B, 2.7B, 6.7B, and 13B  
 Origin: [Cerebras](https://www.cerebras.net)  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: March 2023  
 Paper: [https://arxiv.org/abs/2304.03208](https://arxiv.org/abs/2304.03208)  
-Commercial use possible: YES  
+Commercial use possible: YES
 
-### 🦙 [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)  
+### 🦙 [Stanford Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+
 Parameters: 7B  
 Origin: [Stanford](https://crfm.stanford.edu/2023/03/13/alpaca.html), based on Meta's LLaMA  
 License: Requires access to LlaMA, trained on GPT conversations against OpenAI license  
 Release date: March 2023  
-Paper:   
+Paper:  
 Commercial use possible: NO  
 GitHub: https://github.com/tatsu-lab/stanford_alpaca  
 Training cost: Replicate posted a [blog post](https://replicate.com/blog/replicate-alpaca) where they replicated the Alpaca fine-tuning process. They used 4x A100 80GB GPUs for 1.5 hours. For total training cost, the cost of training the underlying LLaMA model also needs to be taken into account.
 
-### 🔮 [EleutherAI pythia](https://github.com/EleutherAI/pythia)  
+### 🔮 [EleutherAI pythia](https://github.com/EleutherAI/pythia)
+
 Parameters: 70M, 160M, 410M, 1B, 1.4B, 2.8B, 6.9B, 12B  
 Origin: [EleutherAI](https://www.eleuther.ai)  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: February 2023  
 Paper: https://arxiv.org/pdf/2304.01373.pdf  
-Commercial use possible: YES  
+Commercial use possible: YES
 
-### 🦙 [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)  
+### 🦙 [LLaMA](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/)
+
 Parameters: 7B, 33B, 65B  
 Origin: [Meta](https://ai.facebook.com/tools/)  
 License: Model weights available for non-commercial use by application to Meta  
 Release date: February 2023  
 Paper: https://arxiv.org/abs/2302.13971  
 Commercial use possible: NO  
-Training cost: Meta cite "When training a 65B-parameter model, our code processes around 380 tokens/sec/GPU on 2048 A100 GPU with 80GB of RAM. This means that training over our dataset containing 1.4T tokens takes approximately 21 days... Finally, we estimate that we used 2048 A100-80GB for a period of approximately 5 months to develop our models." However, that cost is for all the different model sizes combined. Separately in the LLaMA paper Meta cite 1,022,362 GPU hours on A100-80GB GPUs.  
+Training cost: Meta cite "When training a 65B-parameter model, our code processes around 380 tokens/sec/GPU on 2048 A100 GPU with 80GB of RAM. This means that training over our dataset containing 1.4T tokens takes approximately 21 days... Finally, we estimate that we used 2048 A100-80GB for a period of approximately 5 months to develop our models." However, that cost is for all the different model sizes combined. Separately in the LLaMA paper Meta cite 1,022,362 GPU hours on A100-80GB GPUs.
 
-### 🌸 [Bloom](https://bigscience.huggingface.co/blog/bloom)  
+### 🌸 [Bloom](https://bigscience.huggingface.co/blog/bloom)
+
 Parameters: 176B  
 Origin: [BigScience](https://bigscience.huggingface.co)  
 License: [BigScience Rail License](https://bigscience.huggingface.co/blog/the-bigscience-rail-license)  
 Release date: July 2022  
 Paper: https://arxiv.org/abs/2211.05100  
-Commercial use possible: YES  
+Commercial use possible: YES
 
-### 🌴 [Google PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)  
+### 🌴 [Google PaLM](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+
 Parameters: 540B  
 Origin: [Google](https://www.google.com)  
 License: Unknown - only announcement of intent to open  
 Release date: April 2022  
 Paper: https://arxiv.org/abs/2204.02311  
-Commercial use possible: Awaiting more information  
+Commercial use possible: Awaiting more information
 
-### 🤖 [GPT-NeoX-20B](https://huggingface.co/EleutherAI/gpt-neox-20b)  
+### 🤖 [GPT-NeoX-20B](https://huggingface.co/EleutherAI/gpt-neox-20b)
+
 Parameters: 20B  
 Origin: [EleutherAI](https://www.eleuther.ai)  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
@@ -466,15 +530,17 @@ Paper: https://aclanthology.org/2022.bigscience-1.9/
 Commercial use possible: YES  
 GitHub: https://github.com/EleutherAI/gpt-neox
 
-### 🤖 [GPT-J](https://huggingface.co/EleutherAI/gpt-j-6b)  
+### 🤖 [GPT-J](https://huggingface.co/EleutherAI/gpt-j-6b)
+
 Parameters: 6B  
 Origin: [EleutherAI](https://www.eleuther.ai)  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
 Release date: June 2021  
-Paper:   
-Commercial use possible: YES  
+Paper:  
+Commercial use possible: YES
 
-### 🍮 [Google FLAN-T5](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html)  
+### 🍮 [Google FLAN-T5](https://ai.googleblog.com/2020/02/exploring-transfer-learning-with-t5.html)
+
 Parameters: 80M, 250M, 780M, 3B, 11B  
 Origin: [Google](https://www.google.com)  
 License: [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
@@ -483,18 +549,22 @@ Paper: https://arxiv.org/pdf/2210.11416.pdf
 Commercial use possible: YES  
 GitHub: https://github.com/google-research/t5x
 
-### 🦙 [IBM Dromedary](https://github.com/IBM/Dromedary)  
+### 🦙 [IBM Dromedary](https://github.com/IBM/Dromedary)
+
 Parameters: 7B, 13B, 33B and 65B  
 Origin: [IBM](https://research.ibm.com/artificial-intelligence), based on Meta's LLaMA  
 License: GNU General Public License v3.0  
-Release date:   
+Release date:  
 Paper: https://arxiv.org/abs/2305.03047  
 Commercial use possible: NO  
-GitHub: https://github.com/IBM/Dromedary 
+GitHub: https://github.com/IBM/Dromedary
 
 ## COMMERCIAL MODELS
+
 These commercial models are generally available through some form of usage-based payment model - you use more, you pay more.
+
 ### [OpenAI](https://openai.com)
+
 **GPT-4**  
 Parameters: undeclared  
 Availability: Wait-list https://openai.com/waitlist/gpt-4-api  
@@ -519,73 +589,75 @@ Availability: GA
 Fine-tuning: N/A - consumer web-based solution.  
 Paper:  
 Pricing: https://openai.com/pricing  
-Endpoints: N/A - consumer web-based solution.   
+Endpoints: N/A - consumer web-based solution.  
 Privacy: Data submitted on the web-based ChatGPT service is collected and used to train models https://openai.com/policies/api-data-usage-policies
 
 ### [AI21Labs](https://www.ai21.com)
+
 **Jurassic-2**  
 Parameters: undeclared (jurassic-1 had 178B)  
 Availability: GA  
 Fine-tuning: Yes, fine-tuning available through APIs.  
-Paper:   
-Pricing: https://www.ai21.com/studio/pricing   
+Paper:  
+Pricing: https://www.ai21.com/studio/pricing  
 Endpoints: A variety of endpoints available, including: task-specific endpoints including paraphrase, gramtical errors, text improvements, summarisation, text segmentation, contextual answers.  
-Privacy:  
-
+Privacy:
 
 ### [Anthropic](https://www.anthropic.com)
+
 **Claude**  
 Parameters: undeclared  
-Availability: Waitlist https://www.anthropic.com/product   
-Fine-tuning: Not standard, large enterprise may contact via https://www.anthropic.com/earlyaccess to discuss.    
-Paper:  https://arxiv.org/abs/2204.05862   
-Pricing: https://cdn2.assets-servd.host/anthropic-website/production/images/apr-pricing-tokens.pdf    
+Availability: Waitlist https://www.anthropic.com/product  
+Fine-tuning: Not standard, large enterprise may contact via https://www.anthropic.com/earlyaccess to discuss.  
+Paper: https://arxiv.org/abs/2204.05862  
+Pricing: https://cdn2.assets-servd.host/anthropic-website/production/images/apr-pricing-tokens.pdf  
 Endpoints: Completions endpoint.  
-Privacy: Data sent to/from is not used to train models unless feedback is given - https://vault.pactsafe.io/s/9f502c93-cb5c-4571-b205-1e479da61794/legal.html#terms  
+Privacy: Data sent to/from is not used to train models unless feedback is given - https://vault.pactsafe.io/s/9f502c93-cb5c-4571-b205-1e479da61794/legal.html#terms
 
+### [Google](https:google.com)
 
-### [Google](https:google.com)  
 **Google Bard**  
 Parameters: 770M  
-Availability: Waitlist https://bard.google.com   
-Fine-tuning: No   
+Availability: Waitlist https://bard.google.com  
+Fine-tuning: No  
 Paper:  
 Pricing:  
 Endpoints: Consumer UI only, API via PaLM  
-Privacy: 
-
+Privacy:
 
 **Google PaLM API**  
 Parameters: Upto 540B  
-Availability: Announced but not yet available – https://blog.google/technology/ai/ai-developers-google-cloud-workspace/   
-Fine-tuning: unknown   
+Availability: Announced but not yet available – https://blog.google/technology/ai/ai-developers-google-cloud-workspace/  
+Fine-tuning: unknown  
 Paper: https://arxiv.org/abs/2204.02311  
 Pricing: unknown  
 Endpoints: unknown  
 Privacy: unknown
 
-
 ### [Amazon](https://aws.amazon.com)
+
 **Amazon Titan**  
 Parameters: unknown  
-Availability: Announced but not yet available – https://aws.amazon.com/bedrock/titan/ai-developers-google-cloud-workspace/   
-Fine-tuning: unknown   
-Paper:   
+Availability: Announced but not yet available – https://aws.amazon.com/bedrock/titan/ai-developers-google-cloud-workspace/  
+Fine-tuning: unknown  
+Paper:  
 Pricing: unknown  
 Endpoints: unknown  
 Privacy: unknown
 
 ### [Cohere](https://cohere.ai)
+
 **Cohere**  
 Parameters: 52B  
-Availability: GA   
-Fine-tuning:   
+Availability: GA  
+Fine-tuning:  
 Paper:  
 Pricing: https://cohere.com/pricing  
 Endpoints: A variety of endpoints including embedding, text completion, classification, summarisation, tokensisation, language detection.  
 Privacy: Data submitted is used to train models - https://cohere.com/terms-of-use
 
 ### [IBM](https://www.ibm.com/products/watsonx-ai)
+
 **Granite**  
 Parameters: 13B, 20B  
 Availability: GA (granite.13b - .instruct, .chat; granite.20b.code - .ansible, .cobol; other variants on roadmap)  
